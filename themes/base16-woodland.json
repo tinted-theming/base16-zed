@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "author": "",
+  "name": "Base16 Woodland",
+  "author": "Tinted Theming (https://github.com/tinted-theming)",
   "themes": [
     {
-      "name": "",
+      "name": "Base16 Woodland",
       "appearance": "dark",
       "style": {
         "border": "#9d8b70ff",

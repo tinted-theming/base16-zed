@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "author": "",
+  "name": "Base16 Jabuti",
+  "author": "Tinted Theming (https://github.com/tinted-theming)",
   "themes": [
     {
-      "name": "",
+      "name": "Base16 Jabuti",
       "appearance": "dark",
       "style": {
         "border": "#45475dff",

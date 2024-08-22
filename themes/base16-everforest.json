@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "author": "",
+  "name": "Base16 Everforest",
+  "author": "Tinted Theming (https://github.com/tinted-theming)",
   "themes": [
     {
-      "name": "",
+      "name": "Base16 Everforest",
       "appearance": "dark",
       "style": {
         "border": "#859289ff",

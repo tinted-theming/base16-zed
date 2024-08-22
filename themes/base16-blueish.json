@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "author": "",
+  "name": "Base16 Blueish",
+  "author": "Tinted Theming (https://github.com/tinted-theming)",
   "themes": [
     {
-      "name": "",
+      "name": "Base16 Blueish",
       "appearance": "dark",
       "style": {
         "border": "#616d78ff",

@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "author": "",
+  "name": "Base16 selenized-dark",
+  "author": "Tinted Theming (https://github.com/tinted-theming)",
   "themes": [
     {
-      "name": "",
+      "name": "Base16 selenized-dark",
       "appearance": "dark",
       "style": {
         "border": "#72898fff",

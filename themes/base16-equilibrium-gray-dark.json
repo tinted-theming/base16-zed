@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "author": "",
+  "name": "Base16 Equilibrium Gray Dark",
+  "author": "Tinted Theming (https://github.com/tinted-theming)",
   "themes": [
     {
-      "name": "",
+      "name": "Base16 Equilibrium Gray Dark",
       "appearance": "dark",
       "style": {
         "border": "#777777ff",

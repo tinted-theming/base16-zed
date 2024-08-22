@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "author": "",
+  "name": "Base16 Primer Dark Dimmed",
+  "author": "Tinted Theming (https://github.com/tinted-theming)",
   "themes": [
     {
-      "name": "",
+      "name": "Base16 Primer Dark Dimmed",
       "appearance": "dark",
       "style": {
         "border": "#545d68ff",

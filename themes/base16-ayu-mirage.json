@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "author": "",
+  "name": "Base16 Ayu Mirage",
+  "author": "Tinted Theming (https://github.com/tinted-theming)",
   "themes": [
     {
-      "name": "",
+      "name": "Base16 Ayu Mirage",
       "appearance": "dark",
       "style": {
         "border": "#707a8cff",

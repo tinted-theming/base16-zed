@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "author": "",
+  "name": "Base16 OneDark Dark",
+  "author": "Tinted Theming (https://github.com/tinted-theming)",
   "themes": [
     {
-      "name": "",
+      "name": "Base16 OneDark Dark",
       "appearance": "dark",
       "style": {
         "border": "#434852ff",

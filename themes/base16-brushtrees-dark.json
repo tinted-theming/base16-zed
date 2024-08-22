@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "author": "",
+  "name": "Base16 Brush Trees Dark",
+  "author": "Tinted Theming (https://github.com/tinted-theming)",
   "themes": [
     {
-      "name": "",
+      "name": "Base16 Brush Trees Dark",
       "appearance": "dark",
       "style": {
         "border": "#8299a1ff",

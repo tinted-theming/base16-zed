@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "author": "",
+  "name": "Base16 Catppuccin Latte",
+  "author": "Tinted Theming (https://github.com/tinted-theming)",
   "themes": [
     {
-      "name": "",
+      "name": "Base16 Catppuccin Latte",
       "appearance": "dark",
       "style": {
         "border": "#bcc0ccff",

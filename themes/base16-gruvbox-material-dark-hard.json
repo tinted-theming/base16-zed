@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "author": "",
+  "name": "Base16 Gruvbox Material Dark, Hard",
+  "author": "Tinted Theming (https://github.com/tinted-theming)",
   "themes": [
     {
-      "name": "",
+      "name": "Base16 Gruvbox Material Dark, Hard",
       "appearance": "dark",
       "style": {
         "border": "#5a524cff",
