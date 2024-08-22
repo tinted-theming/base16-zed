@@ -1,9 +1,7 @@
 # base16-zed
 
-A set of [tinted-theming](https://github.com/tinted-theming) scheme templates for
-[zed](https://github.com/sharkdp/vivid). These
-templates can be used with any compliant [Base16
-builder](https://github.com/tinted-theming/base16-builder-go).
+A set of [tinted-theming](https://github.com/tinted-theming) scheme templates for [zed](https://github.com/sharkdp/vivid).
+These templates can be used with any compliant [Base16 builder](https://github.com/tinted-theming/base16-builder-go).
 
 ## Usage
 
@@ -25,3 +23,8 @@ ln -s ~/.config/zed/<repo>/themes ~/.config/zed/themes
 
 The `2.` method is the recommended way to use the themes,
 as it makes it easier to keep the files up to date if any changes arise!
+
+## TODO
+
+Create a base16 extension for zed on this repo and make it available to users using the store.
+An orientation can be the [material version of gruvbox](https://github.com/tokiory/zed-gruvbox-material).
